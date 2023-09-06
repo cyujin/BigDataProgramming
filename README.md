@@ -3,3 +3,4 @@
 
 데이터셋
 https://www.kaggle.com/datasets/zynicide/wine-reviews
+분석 보고서 Wine_Reviews_Report.pptx
