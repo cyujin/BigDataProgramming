@@ -5,4 +5,4 @@
 https://www.kaggle.com/datasets/zynicide/wine-reviews
 
 보고서
-[Wine_Reviews_Report.pptx](https://github.com/DamoimBigData/BigDataProgramming/files/12533331/Wine_Reviews_Report.pptx
+[Wine_Reviews_Report.pptx](https://github.com/cyujin/BigDataProgramming/files/12533435/Wine_Reviews_Report.pptx)
